@@ -1,4 +1,4 @@
-# Line-Follower
+# Line Follower
 This project is part of the Introduction to Robotics course, undertaken during the third-year studies at the Faculty of Mathematics and Computer Science, University of Bucharest. It was fulfilled in a team of 3, La Furia Roja, alongside [@Mirela Ruka](https://github.com/Mirela89) and [@Alexia Maria Vasilache](https://github.com/alexia-maria).
 
 
