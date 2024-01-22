@@ -39,4 +39,4 @@ For the grading we had 3 tries, meaning the robot had to complete 3 consecutive 
 
 [Watch the video](https://www.youtube.com/shorts/_sgrDiwM9yc) to see this functionality in action.
 
-## [Code](https://github.com/Mirela89/Line-Follower/blob/main/lineF/lineF.ino)
+## [Code](https://github.com/MariusAlexandru358/LineFollower/blob/main/lineF/lineF.ino)
